@@ -22,8 +22,9 @@ I'm Praneet Bang, a passionate Software Engineer with a knack for turning code i
 
 ## 🚀 Projects
 
-- [Vaccination Management System](#) - Full-stack application using Spring Boot and ReactJS with OAuth login, clinic management, and Google Kubernetes Engine deployment.
-- [Inventory Management System](#) - MERN stack app for e-commerce, featuring React Material UI, MongoDB Realm, and user authentication.
+- [Vaccination Management System](https://github.com/praneetbang/Vaccination-Management-System) - Full-stack application using Spring Boot and ReactJS with OAuth login, clinic management, and Google Kubernetes Engine deployment.
+- [Inventory Management System](https://github.com/praneetbang/Inventory-Management-System-MERN) - MERN stack app for e-commerce, featuring React Material UI, MongoDB Realm, and user authentication.
+- [Tic Tac Toe](https://github.com/praneetbang/Tic-Tac-Toe-Design-Patterns) - Tic-Tac-Toe game implemented using multiple design patterns.
 
 ## 📬 Let's Connect!
 
